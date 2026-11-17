@@ -14,7 +14,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-eric--index-101827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eric-index)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ericindex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eric-amorim-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric.index/)
 
