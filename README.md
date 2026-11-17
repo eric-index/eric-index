@@ -54,7 +54,7 @@ namespace EricAmorim;
 class Developer
 {
     public string $name = "Eric Amorim";
-    public string $role = "Software Engineer";
+    public string $role = "Software Developer";
 
     public array $interests = [
         "Software Engineering",
