@@ -93,4 +93,4 @@ echo $developer->mission();
 **Thanks for visiting my little corner of the internet.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,100:2563EB&height=100&section=footer" />
-</div>
+</div> 
