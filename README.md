@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101827,100:172D4D&text=ERIC%20AMORIM&fontColor=FFFFFF&fontSize=55&fontAlignY=43&desc=SOFTWARE%20DEVELOPER&descSize=13&descAlignY=67" />
 
-<br/>
+<br/> 
 
 <a href="https://github.com/eric-index">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+software.;Exploring+the+world+of+GameDev+and+Modding.;Turning+ideas+into+interactive+experiences.;Always+building.+Always+learning." />
