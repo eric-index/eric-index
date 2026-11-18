@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101827,100:172D4D&text=ERIC%20AMORIM&fontColor=FFFFFF&fontSize=55&fontAlignY=43&desc=SOFTWARE%20DEVELOPER&descSize=13&descAlignY=67" />
 
